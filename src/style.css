@@ -12,8 +12,16 @@ body{
 .main h1{
     font-family: 'Rubik Moonrocks', cursive;
 }
+.main h4{
+    color: #ffe9e3;
+    font-family: 'Rubik Moonrocks', cursive;
+}
 .main p{
     font-family: 'Source Sans Pro', sans-serif;
+}
+.main h4 a{
+    color: #ffe9e3;
+    font-family: 'Rubik Moonrocks', cursive;
 }
 .bg-violet{
     background-color: #c4c1e0;
