@@ -23,6 +23,9 @@ body{
     color: #ffe9e3;
     font-family: 'Rubik Moonrocks', cursive;
 }
+.main p a{
+    color: #ffe9e3;
+}
 .bg-violet{
     background-color: #c4c1e0;
 }
